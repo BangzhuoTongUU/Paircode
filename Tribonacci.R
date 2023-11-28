@@ -1,3 +1,5 @@
+#! /bin/R
+
 fibonacci <- function(n) {
   if (n <= 1) {
     return(n)
